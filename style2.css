@@ -1,0 +1,96 @@
+body{
+
+    background-color: black;
+  
+}
+
+.Camisas1{
+    position: absolute;
+    top: 19%;
+    right: 70%;
+    transform: translate(-50%,-50%);
+    
+    
+
+    border-top-right-radius: 12px;
+    border-bottom-right-radius:12px ;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    color: white;
+    width: 300px;
+    height: 200px;
+    background-color: none;
+   
+    border: 5px; 
+    border-color: white;
+    border-style: double;
+    text-align: right;
+}
+.CamisaPreta{
+    position: absolute;
+    top: 35%;
+    left:0%;
+    
+
+
+
+
+
+
+
+    border-top-right-radius: 12px;
+    border-bottom-right-radius:12px ;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    color: white;
+    width: 300px;
+    height: 210px;
+    background-color: none;
+
+    border: 5px; 
+    border-color: white;
+    border-style: double;
+    text-align: right;
+}
+
+.CamisaPreta img {
+    width: 150px ;
+    height: 143px;
+    display: grid;
+    justify-content: start;
+}
+
+
+
+p1{
+    color: white;
+    
+}
+
+p2 strong{
+
+    color: green;
+    border: 5px solid green;
+    border-color:green ;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius:12px ;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    
+}
+
+.vascu{
+    position: absolute;
+    bottom: -10%;
+    width: 1436px;
+    height: 100px;
+    background-color:black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}    
+
+
+
+
