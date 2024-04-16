@@ -1,5 +1,6 @@
-![Capturar](https://github.com/HudsonRBJr/MINI-PI/assets/162808613/e9b389a1-ac85-412a-ae2f-7877834bbb34)#MINI-PI
+
 # Meu MINI-PI sobre meu tao amado clube
+um mini pi feito para os fas do maior clube do Brasil
 
 
 
